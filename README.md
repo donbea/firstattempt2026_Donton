@@ -1,4 +1,5 @@
-![Hero Section](/images/knight-shield.png) ## Blue Links
+![Hero Section](public/images/knight-shield.png) 
+## Blue Links
 
 Framework: Next.js (React) <br> 
 Module: 4 - Job Posting (Blue Links) <br>
