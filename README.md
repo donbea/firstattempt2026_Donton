@@ -27,6 +27,17 @@ All components were generated via AI prompts, then manually reviewed, adjusted, 
 
 ---
 
+## Prerequisites
+
+Before running this project, ensure you have the following installed on your computer:
+- **Node.js** (Version 18.0 or higher): [Download here](https://nodejs.org/)
+- **npm** (Comes with Node.js)
+- **Git**: [Download here](https://git-scm.com/)
+
+*(If you are unsure if you have Node.js installed, open your terminal/command prompt and type `node -v`. If it returns a version number, you are good to go!)*
+
+---
+
 ## Installation
 
 Follow these steps to replicate this repo and run it on a different computer:
