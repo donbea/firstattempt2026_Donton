@@ -27,8 +27,8 @@ Follow these steps to replicate this repo and run it on a different computer:
    cd firstattempt2026_Donton
 
 5. Install dependencies:
-   ```bash
    Ensure you have Node.js installed. Then run:
+   ```bash
    npm install
 
 7. Open your browser:
