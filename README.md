@@ -32,7 +32,6 @@ Follow these steps to replicate this repo and run it on a different computer:
    npm install
 
 7. Open your browser:
-   ```bash
    Visit http://localhost:3000 to view the application.
 
 
@@ -82,3 +81,5 @@ Below are official actual screenshots of the web application (including the enti
 
 7. Footer
 ![Mobile View](screenshots/mobile-view.png)
+
+
