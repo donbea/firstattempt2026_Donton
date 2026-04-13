@@ -4,7 +4,7 @@ The web version of Blue Links - The Ateneo Alumni Hub Job Posting run by Next.js
 # <Donton>
 
 Framework: Next.js (React)  
-Module: Web Application Development  
+Module: 4 - Job Posting [Blue Links] 
 AI Tools Used: Claude AI, Qwen  
 
 ---
@@ -22,16 +22,20 @@ The application serves as an alumni portal prototype for Ateneo de Davao Univers
 Follow these steps to replicate this repo and run it on a different computer:
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/<your-username>/firstattempt2026_Donton.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   ```bash
    cd firstattempt2026_Donton
 
-4. Install dependencies:
+5. Install dependencies:
+   ```bash
    Ensure you have Node.js installed. Then run:
    npm install
 
-5. Open your browser:
+7. Open your browser:
+   ```bash
    Visit http://localhost:3000 to view the application.
 
 
