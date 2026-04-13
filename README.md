@@ -1,16 +1,28 @@
-# <Donton>
+## Blue Links
 
-Framework: Next.js (React)  
-Module: 4 - Job Posting (Blue Links)
-AI Tools Used: Claude AI, Qwen  
+Framework: Next.js (React) <br> 
+Module: 4 - Job Posting (Blue Links) <br>
+AI Tools Used: Claude AI, Qwen
 
 ---
 
 ## Project Overview
 
-This project explores the subjective experience and "vibe" of coding with different AI models to assist in the development of a simple web application of Blue Links - The Ateneo Alumni Hub Job Posting. The goal was to maximize GitHub usage and document the prompt engineering process required to generate a working project.
+Blue Links is a modern, responsive web-based alumni portal prototype designed for Ateneo de Davao University (AdDU). It serves as a digital hub where graduates can reconnect, explore job opportunities, manage their profiles, and stay updated on university events — all through an intuitive, visually rich interface inspired by AdDU’s branding and cultural motifs (like the Bagobo pattern).
 
-The application serves as an alumni portal prototype for Ateneo de Davao University, featuring a responsive footer, navigation, and dashboard components.
+This project was developed not just to build functionality, but to explore the “vibe” and subjective experience of coding alongside different AI models — specifically Claude AI and Qwen. The goal was to understand how each AI influences code structure, design decisions, debugging style, and overall developer flow.
+
+---
+
+## How Does It Work?
+
+The application is built using Next.js (App Router) with inline styles and Tailwind CSS utilities for rapid UI development. Key features include:
+- Responsive Navigation & Footer: Consistent across pages, featuring gold-accented links and a subtle Bagobo-pattern overlay for cultural identity.
+- Job Board Module: Displays mock job postings with filtering capabilities (by category, location, etc.).
+- User Dashboard: Personalized view showing saved jobs, profile status, and event reminders.
+- Authentication Flow: Login/Register screens leading to protected routes like Profile and Settings.
+- Static Asset Integration: Images (blue-knight.png, bagobo-pattern.png) are served from the /public/images folder, ensuring fast loading and offline compatibility during development.
+All components were generated via AI prompts, then manually reviewed, adjusted, and assembled to ensure coherence, accessibility, and visual fidelity to the original Activity #10 design.
 
 ---
 
