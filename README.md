@@ -62,24 +62,21 @@ The design implemented in this web application is based on the UI/UX mockups sub
 Below are official actual screenshots of the web application (including the entire browser window).
 
 1. Hero Section
-![Homepage Screenshot](screenshots/homepage-full.png)
+![Hero Sectiont](screenshots/hero.png)
 
 2. Dashboard
-![Footer Screenshot](screenshots/footer-detail.png)
+![Dashboard](screenshots/dashboard.png)
 
-3. Mobile Responsiveness
-![Mobile View](screenshots/mobile-view.png)
+3. Job Board
+![Job Board](screenshots/job-board.png)
 
-4. Job View
-![Mobile View](screenshots/mobile-view.png)
+4. Profile and Settings
+![Profile and Settings](screenshots/prof-settings.png)
 
-5. Profile and Settings
-![Mobile View](screenshots/mobile-view.png)
+5. Log in
+![Log In](screenshots/login.png)
 
-6. Log in
-![Mobile View](screenshots/mobile-view.png)
-
-7. Footer
-![Mobile View](screenshots/mobile-view.png)
+6. Footer
+![Footer](screenshots/footer.png)
 
 
