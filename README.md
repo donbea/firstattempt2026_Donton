@@ -1,10 +1,7 @@
-# firstattempt2026_Donton
-The web version of Blue Links - The Ateneo Alumni Hub Job Posting run by Next.js
-
 # <Donton>
 
 Framework: Next.js (React)  
-Module: 4 - Job Posting [Blue Links] 
+Module: 4 - Job Posting (Blue Links)
 AI Tools Used: Claude AI, Qwen  
 
 ---
