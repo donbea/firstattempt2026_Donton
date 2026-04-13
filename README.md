@@ -20,7 +20,7 @@ Follow these steps to replicate this repo and run it on a different computer:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/firstattempt2026_Donton.git
+   git clone https://github.com/donbea/firstattempt2026_Donton.git
 
 3. Navigate to the project directory:
    ```bash
@@ -31,7 +31,7 @@ Follow these steps to replicate this repo and run it on a different computer:
    ```bash
    npm install
 
-7. Open your browser:
+7. Open your browser: <br>
    Visit http://localhost:3000 to view the application.
 
 
