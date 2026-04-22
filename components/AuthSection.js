@@ -13,7 +13,7 @@ export default function AuthSection() {
         {/* Left branding */}
         <div>
           <div style={{ marginBottom:28 }}>
-            <Image src="/addu-seal.png" alt="AdDU Seal" width={80} height={80} style={{ objectFit:'contain' }} />
+            <Image src="/images/addu-seal.png" alt="AdDU Seal" width={80} height={80} style={{ objectFit:'contain' }} />
           </div>
           <h2 style={{ fontFamily:'Playfair Display', fontSize:'clamp(2rem,3.5vw,2.8rem)', fontWeight:700, color:'var(--navy)', lineHeight:1.15, marginBottom:14 }}>
             Welcome,<br /><span style={{ color:'var(--secondary)' }}>Blue Knight!</span>
@@ -32,7 +32,7 @@ export default function AuthSection() {
 
           {/* AdDU logo at bottom */}
           <div style={{ marginTop:36, paddingTop:24, borderTop:'1px solid rgba(10,14,82,0.08)', display:'flex', alignItems:'center', gap:12 }}>
-            <Image src="/addu-logo.png" alt="AdDU Logo" width={40} height={40} style={{ objectFit:'contain' }} />
+            <Image src="/images/addu-seal-white.png" alt="AdDU Logo" width={40} height={40} style={{ objectFit:'contain' }} />
             <div>
               <div style={{ fontFamily:'Playfair Display', fontSize:'0.875rem', fontWeight:700, color:'var(--navy)' }}>Ateneo de Davao University</div>
               <div style={{ fontSize:'0.72rem', color:'rgba(10,14,82,0.45)' }}>Fortes in Fide</div>

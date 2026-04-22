@@ -78,11 +78,11 @@ export default function ProfileSection() {
 
             {/* AdDU building */}
             <div style={{ borderRadius:12, overflow:'hidden', height:160, position:'relative', marginTop:16 }}>
-              <Image src="/addu-building.png" alt="AdDU" fill style={{ objectFit:'cover' }} />
+              <Image src="/images/addu-building.png" alt="AdDU" fill style={{ objectFit:'cover' }} />
               <div style={{ position:'absolute', inset:0, background:'linear-gradient(to top, rgba(7,10,58,0.85), transparent)' }}/>
               <div style={{ position:'absolute', bottom:0, left:0, right:0, padding:'16px' }}>
                 <div style={{ display:'flex', alignItems:'center', gap:10 }}>
-                  <Image src="/addu-seal.png" alt="AdDU Seal" width={36} height={36} style={{ objectFit:'contain' }} />
+                  <Image src="/images/addu-seal.png" alt="AdDU Seal" width={36} height={36} style={{ objectFit:'contain' }} />
                   <div>
                     <div style={{ fontFamily:'Playfair Display', fontSize:'0.875rem', color:'white', fontWeight:700 }}>Ateneo de Davao University</div>
                     <div style={{ fontSize:'0.68rem', color:'var(--gold)' }}>Fortes in Fide</div>

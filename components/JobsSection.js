@@ -27,7 +27,7 @@ export default function JobsSection() {
       position: 'relative', padding: '100px 24px', overflow: 'hidden'
     }} className="header-section">
       {/* Tribal bg */}
-      <div style={{ position:'absolute', inset:0, backgroundImage:"url('/bagobo-pattern.png')", backgroundSize:'200px', opacity:0.05 }}/>
+      <div style={{ position:'absolute', inset:0, backgroundImage:"url('/images/bagobo-pattern.png')", backgroundSize:'600px', opacity:0.4 }}/>
 
       <div style={{ maxWidth: 1200, margin: '0 auto', position: 'relative', zIndex: 1 }}>
         <div style={{ textAlign:'center', marginBottom: 60 }}>

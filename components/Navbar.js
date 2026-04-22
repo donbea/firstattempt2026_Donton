@@ -21,7 +21,7 @@ export default function Navbar() {
       <div style={{ maxWidth: 1200, margin: '0 auto', padding: '0 28px', display: 'flex', alignItems: 'center', height: 68, gap: 16 }}>
         {/* Logo */}
         <div style={{ display: 'flex', alignItems: 'center', gap: 12, flex: 1 }}>
-          <Image src="/knight-logo.png" alt="Blue Links" width={42} height={42} style={{ objectFit: 'contain' }} />
+          <Image src="/images/blue-knight.png" alt="Blue Links" width={42} height={42} style={{ objectFit: 'contain' }} />
           <div>
             <div style={{ fontFamily: 'Playfair Display', fontWeight: 700, fontSize: '1.05rem', letterSpacing: 3, color: 'white' }}>BLUE LINKS</div>
             <div style={{ fontSize: '0.58rem', color: 'var(--gold)', letterSpacing: 1.5, marginTop: -2 }}>ATENEO DE DAVAO UNIVERSITY</div>

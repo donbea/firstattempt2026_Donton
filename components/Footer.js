@@ -4,12 +4,12 @@ import Image from 'next/image'
 export default function Footer() {
   return (
     <footer style={{ background:'#070A3A', borderTop:'1px solid rgba(245,192,37,0.15)', padding:'60px 24px 32px', position:'relative', overflow:'hidden' }}>
-      <div style={{ position:'absolute', inset:0, backgroundImage:"url('/bagobo-pattern.png')", backgroundSize:'200px', opacity:0.05 }}/>
+      <div style={{ position:'absolute', inset:0, backgroundImage:"url('/images/bagobo-pattern.png')", backgroundSize:'600px', opacity:0.8 }}/>
       <div style={{ maxWidth:1200, margin:'0 auto', position:'relative', zIndex:1 }}>
         <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit, minmax(200px,1fr))', gap:40, marginBottom:48 }}>
           <div>
             <div style={{ display:'flex', alignItems:'center', gap:12, marginBottom:16 }}>
-              <Image src="/knight-logo.png" alt="Blue Links" width={40} height={40} style={{ objectFit:'contain' }} />
+              <Image src="/images/blue-knight.png" alt="Blue Links" width={40} height={40} style={{ objectFit:'contain' }} />
               <div>
                 <div style={{ fontFamily:'Playfair Display', fontWeight:700, color:'white', letterSpacing:2, fontSize:'1rem' }}>BLUE LINKS</div>
                 <div style={{ fontSize:'0.58rem', color:'var(--gold)', letterSpacing:1.5 }}>ATENEO DE DAVAO</div>
@@ -18,7 +18,7 @@ export default function Footer() {
             <p style={{ color:'rgba(255,255,255,0.4)', fontSize:'0.85rem', lineHeight:1.7, maxWidth:220, marginBottom:20 }}>
               The official alumni portal of Ateneo de Davao University. Rediscover. Reunite. Reconnect.
             </p>
-            <Image src="/addu-seal.png" alt="AdDU Seal" width={48} height={48} style={{ objectFit:'contain', opacity:0.7 }} />
+            <Image src="/images/addu-seal.png" alt="AdDU Seal" width={48} height={48} style={{ objectFit:'contain', opacity:0.7 }} />
           </div>
 
           {[

@@ -95,7 +95,7 @@ export default function DashboardSection() {
 
             {/* Building image */}
             <div style={{ borderRadius: 10, overflow: 'hidden', marginBottom: 20, height: 140, position: 'relative' }}>
-              <Image src="/addu-tower.png" alt="AdDU Campus" fill style={{ objectFit: 'cover' }} />
+              <Image src="/images/addu-building.png" alt="AdDU Campus" fill style={{ objectFit: 'cover' }} />
               <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(7,10,58,0.7), transparent)' }}/>
               <div style={{ position: 'absolute', bottom: 12, left: 14 }}>
                 <span style={{ fontSize: '0.68rem', color: 'var(--gold)', fontWeight: 700, textTransform: 'uppercase', letterSpacing: 1 }}>Featured</span>
