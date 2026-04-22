@@ -58,10 +58,9 @@ Follow these steps to replicate this repo and run it on a different computer:
 6.  Make sure you are in the right folder. Then run:
    ```bash
    npm run dev
-```
+   ```
    
-
-7. Open your browser: <br>
+5. Open your browser: <br>
    Visit http://localhost:3000 to view the application.
 
 
